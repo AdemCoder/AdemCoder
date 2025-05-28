@@ -17,8 +17,7 @@
         <img src="https://img.shields.io/github/contributors/OmarrSakr/OmarrSakr?color=2b9348" alt="GitHub contributors"/></a>
   
 
-<a href="https://www.linkedin.com/in/adem-djini-2a850330a/" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/-omarrhussien-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/omarrhussien" alt="LinkedIn: omarrhussien" style="max-width: 100%; height: auto;"></a>
+
 
 
  <!--  [![committers.top rank](https://user-badge.committers.top/egypt/OmarrSakr.svg)](https://user-badge.committers.top/egypt/OmarrSakr) -->
